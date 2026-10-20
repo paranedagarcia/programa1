@@ -5,3 +5,5 @@ primer proyecto de programacion
 - sentencias
 
 - funciones
+
+### temas principales
